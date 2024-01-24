@@ -1,0 +1,1 @@
+wget --page-requisites -r -l 10 https://devoxx.com.ua/

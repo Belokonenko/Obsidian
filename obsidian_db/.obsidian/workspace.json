@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "2db907a80036d6fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "22b1ef0bf579a004",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "306aebd48c354226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Web/Css/Form/Select.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6040ec7b6052a9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a72e341dc06e0ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9898af522f362ac4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa29de25106a147c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "car",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b85326f0de8cb09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e6200b241dc5a02b",
+    "type": "split",
+    "children": [
+      {
+        "id": "16feca6ba9ffa919",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dddcd22fd8eebfea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IT/Web/Css/Form/Select.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8bf1c57599f86498",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "IT/Web/Css/Form/Select.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ae737cc9d1e396e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e0b9ba08cfea0600",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IT/Web/Css/Form/Select.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "306aebd48c354226",
+  "lastOpenFiles": [
+    "IT/Web/Css/Form/form.md",
+    "IT/Web/Css/Form/Select.md",
+    "IT/Web/Css/Form/Атрибут `autocomplete`.md",
+    "IT/Web/Css/Form/стили форм эл.md",
+    "IT/Web/Css/Псевдоэлемент.md",
+    "тз dat/наполнение 1.md",
+    "тз dat/наполнение 0.md",
+    "тз dat/наполнение 4.md",
+    "тз dat/наполнение  3.md",
+    "тз dat/наполнение 2.md",
+    "тз dat",
+    "тз dat/tz програмная часть.md",
+    "IT/Work_Web/задача js.md",
+    "IT/Work_Web/Name var.md",
+    "IT/Work_Web/порядок свойств css.md",
+    "IT/Work_Web/Name class.md",
+    "IT/Web/json-server.md",
+    "IT/GPT/Токен.md",
+    "IT/Git/Git_shpora.md",
+    "IT/Web/Css/Псевдокласс.md",
+    "Obsidian/Obsidian.md",
+    "IT/Web/Css/Flex/Flex.md",
+    "000_FILES/Pasted image 20240123055513.png",
+    "000_FILES/Pasted image 20240122161156.png",
+    "000_FILES/Pasted image 20240123060023.png",
+    "IT/Web/Css/000 Example/Без названия 1.md",
+    "IT/Web/how load site.md",
+    "IT/Web/JS/шпора.md",
+    "000_FILES/Flex_flex-basis 1.jpg",
+    "000_FILES/Flex_flex.jpg",
+    "000_FILES/Flex_align-content2.jpg",
+    "000_FILES/Flex_align-content.jpg",
+    "000_FILES/027 Objects-Arrays.jpg",
+    "000_FILES/019 functions.jpg",
+    "000_FILES/010 metric-all.png",
+    "IT/Web/Css/nav/nav.md",
+    "IT/Web/Css/nav",
+    "IT/Web/Css/000 Example/Без названия.md",
+    "IT/Web/Css/000 Example",
+    "IT/Web/JS",
+    "IT/Git",
+    "IT/Work_Web",
+    "IT/Web/Css/Form",
+    "IT/Web/Css/Псевдоклассы",
+    "IT/Web",
+    "IT",
+    "Без названия.canvas"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "vimMode": true,
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "files",
+  "alwaysUpdateLinks": true
+}
