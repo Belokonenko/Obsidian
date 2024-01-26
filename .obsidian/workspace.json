@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian_db/Css/Select.md",
+                "file": "obsidian_db/IT/Web/Css/clip-path/clip-path.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "disabled",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian_db/Css/Select.md",
+                "file": "obsidian_db/IT/Web/Css/clip-path/clip-path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian_db/Css/Select.md",
+                "file": "obsidian_db/IT/Web/Css/clip-path/clip-path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian_db/Css/Select.md"
+                "file": "obsidian_db/IT/Web/Css/clip-path/clip-path.md"
               }
             }
           }
@@ -146,11 +146,34 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7bdc72d16793f11d",
+  "active": "d024d810d773e77e",
   "lastOpenFiles": [
+    "obsidian_db/000_FILES/clip-path_5.jpg",
+    "obsidian_db/IT/Web/Css/clip-path/clip-path.md",
+    "obsidian_db/000_FILES/clip-path_4.jpg",
+    "obsidian_db/000_FILES/clip-path_3.jpg",
+    "obsidian_db/000_FILES/clip-path_2.jpg",
+    "obsidian_db/000_FILES/clip-path_1.jpg",
+    "obsidian_db/000_FILES/clip-path.jpg",
+    "obsidian_db/000_FILES/Screenshot_1.jpg",
+    "obsidian_db/IT/Web/Css/clip-path/Без названия",
+    "obsidian_db/IT/Web/Css/clip-path",
+    "obsidian_db/000_FILES/tmp.jpg",
+    "obsidian_db/000_FILES/Pasted image 20240125100254 1.png",
+    "obsidian_db/000_FILES/minmax.jpg",
+    "obsidian_db/IT/Web/Css/opacity.md",
+    "obsidian_db/IT/Web/Css/visbility.md",
+    "obsidian_db/IT/Web/Css/ovrerflow.md",
+    "obsidian_db/IT/Web/Css/Form/Select.md",
+    "obsidian_db/IT/Web/Css/Form/form.md",
+    "obsidian_db/IT/Web/Css/Form/стили форм эл.md",
+    "obsidian_db/IT/Web/Css/Form/Без названия.md",
+    "obsidian_db/IT/Web/Css/Grid/Grid.md",
+    "obsidian_db/IT/Web/Css/Псевдокласс.md",
+    "obsidian_db/IT/Web/Css/Grid",
+    "Без названия",
     "obsidian_db/Css/Без названия",
     "obsidian_db/Без названия 2",
-    "Без названия 1",
-    "Без названия"
+    "Без названия 1"
   ]
 }

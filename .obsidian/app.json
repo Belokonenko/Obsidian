@@ -3,5 +3,7 @@
   "readableLineLength": true,
   "showLineNumber": true,
   "vimMode": true,
-  "attachmentFolderPath": "obsidian_db/files"
+  "attachmentFolderPath": "obsidian_db/files",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "obsidian_db/000_FILES"
 }
