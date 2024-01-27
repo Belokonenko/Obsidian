@@ -11,8 +11,12 @@
             "id": "861eb6761986b0cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IT/Web/Css/Резиновая верстка.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e6200b241dc5a02b",
@@ -82,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000_FILES/Pasted image 20240122122442.png",
+                "file": "IT/Web/Css/Резиновая верстка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000_FILES/Pasted image 20240122122442.png",
+                "file": "IT/Web/Css/Резиновая верстка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000_FILES/Pasted image 20240122122442.png"
+                "file": "IT/Web/Css/Резиновая верстка.md"
               }
             }
           }
@@ -135,16 +138,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "dddcd22fd8eebfea",
+  "active": "861eb6761986b0cf",
   "lastOpenFiles": [
+    "IT/Web/Css/Резиновая верстка.md",
     "IT/Work_Web/Name class.md",
     "IT/Work_Web/порядок свойств css.md",
     "IT/Work_Web/000 Steps work ( шаги работы).md",
@@ -171,7 +175,6 @@
     "IT/GPT/Токен.md",
     "IT/Git/Git_shpora.md",
     "Obsidian/Obsidian.md",
-    "IT/Web/Css/Flex/Flex.md",
     "000_FILES/Pasted image 20240123055513.png",
     "000_FILES/Pasted image 20240122161156.png",
     "000_FILES/Pasted image 20240123060023.png",
