@@ -1,6 +1,14 @@
 ## Шаги работы
 
+## img не имформативные aria-hiden
+[[aria-hidden]]
 
+
+https://validator.w3.org/
+
+https://pagespeed.web.dev/ # Узнайте, как ускорить загрузку своих страниц на любых устройствах
+
+https://yoksel.github.io/html-tree/ # Генератор HTML-дерева
 ## 2.копировать шаблот пороэкта c git
 - npm i
 - создать пороэкт на git

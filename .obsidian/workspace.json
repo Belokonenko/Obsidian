@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9dd96e20770cde91",
+        "id": "6006d723a3763be9",
         "type": "tabs",
         "children": [
           {
-            "id": "d024d810d773e77e",
+            "id": "3c1165b09bd8bcf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian_db/IT/Web/Css/clip-path/clip-path.md",
+                "file": "obsidian_db/IT/Web/Css/img.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian_db/IT/Web/Css/clip-path/clip-path.md",
+                "file": "obsidian_db/IT/Web/Css/img.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian_db/IT/Web/Css/clip-path/clip-path.md",
+                "file": "obsidian_db/IT/Web/Css/img.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian_db/IT/Web/Css/clip-path/clip-path.md"
+                "file": "obsidian_db/IT/Web/Css/img.md"
               }
             }
           }
@@ -146,32 +146,46 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "d024d810d773e77e",
+  "active": "3c1165b09bd8bcf5",
   "lastOpenFiles": [
-    "obsidian_db/000_FILES/clip-path_5.jpg",
+    "Pasted image 20240127164140.png",
+    "Pasted image 20240127164034.png",
+    "obsidian_db/IT/Web/Css/Form/000 Заметки.md",
+    "obsidian_db/IT/Web/Css/img.md",
+    "obsidian_db/IT/Web/Css/Form/Без названия.md",
+    "obsidian_db/IT/Work_Web/000 Steps work ( шаги работы).md",
+    "obsidian_db/IT/Web/Css/aria/aria-label.md",
+    "Pasted image 20240127155200.png",
+    "obsidian_db/IT/Web/Css/aria/aria-hidden.md",
+    "obsidian_db/IT/Web/Css/aria",
+    "obsidian_db/IT/Web/Css/Взаимодействие пользователя с сайтом/pointer-events.md",
+    "obsidian_db/IT/Web/Css/Взаимодействие пользователя с сайтом",
+    "Без названия",
+    "obsidian_db/000_FILES/Pasted image 20240127062925.png",
+    "obsidian_db/IT/Web/Css/Взаимодействие пользователя с сайтом/scroll-behavior.md",
+    "obsidian_db/IT/Web/Css/Взаимодействие пользователя с сайтом/resize.md",
+    "obsidian_db/000_FILES/Pasted image 20240127065109.png",
+    "obsidian_db/000_FILES/Pasted image 20240127065006.png",
+    "obsidian_db/000_FILES/Pasted image 20240127064935.png",
+    "obsidian_db/000_FILES/Pasted image 20240127064525.png",
+    "obsidian_db/000_FILES/Pasted image 20240127063538.png",
+    "obsidian_db/IT/Web/Css/Взаимодействие пользователя с сайтом/ueser-select.md",
+    "obsidian_db/IT/GPT/Токен.md",
+    "obsidian_db/IT/Git/Git_shpora.md",
     "obsidian_db/IT/Web/Css/clip-path/clip-path.md",
+    "obsidian_db/000_FILES/clip-path_5.jpg",
     "obsidian_db/000_FILES/clip-path_4.jpg",
-    "obsidian_db/000_FILES/clip-path_3.jpg",
-    "obsidian_db/000_FILES/clip-path_2.jpg",
-    "obsidian_db/000_FILES/clip-path_1.jpg",
-    "obsidian_db/000_FILES/clip-path.jpg",
-    "obsidian_db/000_FILES/Screenshot_1.jpg",
     "obsidian_db/IT/Web/Css/clip-path/Без названия",
     "obsidian_db/IT/Web/Css/clip-path",
-    "obsidian_db/000_FILES/tmp.jpg",
-    "obsidian_db/000_FILES/Pasted image 20240125100254 1.png",
-    "obsidian_db/000_FILES/minmax.jpg",
     "obsidian_db/IT/Web/Css/opacity.md",
     "obsidian_db/IT/Web/Css/visbility.md",
     "obsidian_db/IT/Web/Css/ovrerflow.md",
     "obsidian_db/IT/Web/Css/Form/Select.md",
     "obsidian_db/IT/Web/Css/Form/form.md",
     "obsidian_db/IT/Web/Css/Form/стили форм эл.md",
-    "obsidian_db/IT/Web/Css/Form/Без названия.md",
     "obsidian_db/IT/Web/Css/Grid/Grid.md",
     "obsidian_db/IT/Web/Css/Псевдокласс.md",
     "obsidian_db/IT/Web/Css/Grid",
-    "Без названия",
     "obsidian_db/Css/Без названия",
     "obsidian_db/Без названия 2",
     "Без названия 1"
