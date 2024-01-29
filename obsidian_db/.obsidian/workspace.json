@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Web/Css/Резиновая верстка.md",
+                "file": "IT/Web/Css/transform/transform.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Web/Css/Резиновая верстка.md",
+                "file": "IT/Web/Css/transform/transform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Web/Css/Резиновая верстка.md",
+                "file": "IT/Web/Css/transform/transform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Web/Css/Резиновая верстка.md"
+                "file": "IT/Web/Css/transform/transform.md"
               }
             }
           }
@@ -148,7 +148,14 @@
   },
   "active": "861eb6761986b0cf",
   "lastOpenFiles": [
-    "IT/Web/Css/Резиновая верстка.md",
+    "IT/Web/Css/transition/transition.md",
+    "IT/Web/Css/transition/timing-function.md",
+    "IT/Web/Css/transform/transform.md",
+    "IT/Web/Css/Взаимодействие пользователя с сайтом/ueser-select.md",
+    "IT/Web/Css/Взаимодействие пользователя с сайтом/scroll-behavior.md",
+    "IT/Web/Css/Взаимодействие пользователя с сайтом/resize.md",
+    "IT/Web/Css/Взаимодействие пользователя с сайтом/pointer-events.md",
+    "IT/Work_Web/Резиновая верстка.md",
     "IT/Work_Web/Name class.md",
     "IT/Work_Web/порядок свойств css.md",
     "IT/Work_Web/000 Steps work ( шаги работы).md",
@@ -168,13 +175,6 @@
     "тз dat/наполнение  3.md",
     "тз dat/наполнение 2.md",
     "тз dat",
-    "тз dat/tz програмная часть.md",
-    "IT/Work_Web/задача js.md",
-    "IT/Work_Web/Name var.md",
-    "IT/Web/json-server.md",
-    "IT/GPT/Токен.md",
-    "IT/Git/Git_shpora.md",
-    "Obsidian/Obsidian.md",
     "000_FILES/Pasted image 20240123055513.png",
     "000_FILES/Pasted image 20240122161156.png",
     "000_FILES/Pasted image 20240123060023.png",
