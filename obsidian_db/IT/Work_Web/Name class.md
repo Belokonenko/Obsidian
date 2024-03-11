@@ -9,7 +9,7 @@ https://github.com/yoksel/common-words
  - thumbnail, thumb — миниатюра, уменьшенное изображение
 
 ## Текст
-- title, subject, heading, headline, caption — заголовок
+- title, subject, heading, headline, caption — заголовок, тема, заголовок, заголовок, подпись
 - subtitle — подзаголовок
 - text — текстовый контент
 - description, desc — описание, вариант текстового контента

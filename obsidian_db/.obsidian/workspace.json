@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "79aef82e9dcacafe",
+        "id": "b573bcd2f8c16be7",
         "type": "tabs",
         "children": [
           {
-            "id": "861eb6761986b0cf",
+            "id": "6599f57656b49ee9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Web/Css/transform/transform.md",
+                "file": "IT/Web/Css/Form/Form exemple.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d0922b8ff3a60f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Work_Web/modules html scss js/pagination/pagination.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e472a171127daf97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Work_Web/Name class.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "car",
+                "query": "checkbox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 308.5
   },
   "right": {
     "id": "e6200b241dc5a02b",
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Web/Css/transform/transform.md",
+                "file": "IT/Work_Web/Name class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Web/Css/transform/transform.md",
+                "file": "IT/Work_Web/Name class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Web/Css/transform/transform.md"
+                "file": "IT/Work_Web/Name class.md"
               }
             }
           }
@@ -138,62 +163,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "861eb6761986b0cf",
+  "active": "e472a171127daf97",
   "lastOpenFiles": [
-    "IT/Web/Css/transition/transition.md",
-    "IT/Web/Css/transition/timing-function.md",
-    "IT/Web/Css/transform/transform.md",
-    "IT/Web/Css/Взаимодействие пользователя с сайтом/ueser-select.md",
-    "IT/Web/Css/Взаимодействие пользователя с сайтом/scroll-behavior.md",
-    "IT/Web/Css/Взаимодействие пользователя с сайтом/resize.md",
-    "IT/Web/Css/Взаимодействие пользователя с сайтом/pointer-events.md",
-    "IT/Work_Web/Резиновая верстка.md",
-    "IT/Work_Web/Name class.md",
-    "IT/Work_Web/порядок свойств css.md",
-    "IT/Work_Web/000 Steps work ( шаги работы).md",
-    "IT/Web/Css/nav/nav.md",
-    "IT/Web/Css/ovrerflow.md",
-    "IT/Web/Css/opacity.md",
-    "IT/Web/JS/шпора.md",
-    "IT/Web/Css/Псевдокласс.md",
-    "IT/Web/Css/Псевдоэлемент.md",
-    "IT/Web/Css/Form/Select.md",
-    "IT/Web/Css/Form/form.md",
-    "IT/Web/Css/Form/Атрибут `autocomplete`.md",
-    "IT/Web/Css/Form/стили форм эл.md",
-    "тз dat/наполнение 1.md",
-    "тз dat/наполнение 0.md",
-    "тз dat/наполнение 4.md",
-    "тз dat/наполнение  3.md",
-    "тз dat/наполнение 2.md",
+    "IT/Work_Web/Name var.md",
+    "IT/Work_Web/ссылка на всю карту.md",
+    "auto-fit.md",
+    "IT/Work_Web/modules html scss js/pagination/pagination.md",
+    "IT/Work_Web/Grid",
+    "IT/Web/Css/Form/Form exemple.md",
+    "IT/Work_Web/modules html scss js/pagination",
+    "IT/Work_Web/modules html scss js",
+    "IT/Web/Css/Form/Готовый шаблон HTML-формы.md",
+    "IT/Web/HTML/Open Graph.md",
+    "Obsidian/Obsidian.md",
+    "IT/Web/Css/Form/input.md",
+    "IT/Web/Css/Form/000 Заметки.md",
+    "IT/Work_Web/Font.md",
+    "IT/Web/Css/Animation.md",
+    "IT/Web/Img/img-makeev/img-makeev.md",
+    "IT/Web/Img/retina jpg webp.md",
+    "Ubuntu/wine.md",
+    "IT/Web/Img/aspect-ratio.md",
+    "IT/Web/Img/img.md",
+    "IT/Web/Img/Retina.md",
+    "IT/Web/Img/Как подготовить вёрстку к Retina-экранам.md",
+    "Ubuntu/обновление програм.md",
+    "Ubuntu/Готовые архивы Pre-built archives.md",
+    "Ubuntu/ripgrep (для поиска по файлам).md",
+    "Ubuntu/neovim 7.md",
+    "Ubuntu/install vim.md",
+    "Ubuntu/git.md",
+    "Ubuntu/CocInstall.md",
+    "IT/Work_Web/template",
+    "nvim",
+    "Ubuntu",
+    "Pasted image 20240210043253.png",
+    "Pasted image 20240206174610.png",
+    "Pasted image 20240206174456.png",
+    "IT/Work_Web/ламко",
+    "IT/Web/Img/img-makeev",
+    "000_FILES/Pasted image 20240205195108.png",
+    "000_FILES/Pasted image 20240206031500.png",
+    "000_FILES/Pasted image 20240206013231.png",
+    "000_FILES/Pasted image 20240205200628.png",
+    "000_FILES/Pasted image 20240205195226.png",
+    "000_FILES/Pasted image 20240205195147.png",
+    "000_FILES/Pasted image 20240204185128.png",
+    "IT/Work_Web/gulp",
     "тз dat",
-    "000_FILES/Pasted image 20240123055513.png",
-    "000_FILES/Pasted image 20240122161156.png",
-    "000_FILES/Pasted image 20240123060023.png",
-    "000_FILES/Flex_flex-basis 1.jpg",
-    "000_FILES/Flex_flex.jpg",
-    "000_FILES/Flex_align-content2.jpg",
-    "000_FILES/Flex_align-content.jpg",
-    "000_FILES/027 Objects-Arrays.jpg",
-    "000_FILES/019 functions.jpg",
-    "000_FILES/010 metric-all.png",
-    "IT/Web/Css/nav",
-    "IT/Web/Css/000 Example",
-    "IT/Web/JS",
-    "IT/Git",
-    "IT/Work_Web",
-    "IT/Web/Css/Form",
-    "IT/Web/Css/Псевдоклассы",
-    "IT/Web",
-    "IT",
     "Без названия.canvas"
   ]
 }
