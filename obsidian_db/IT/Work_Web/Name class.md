@@ -1,6 +1,5 @@
 # name class
 https://github.com/yoksel/common-words
-
 ## Изображения
  - image,  img,  picture,  pic — картинка
  - icon — иконка
@@ -47,6 +46,11 @@ https://github.com/yoksel/common-words
     aside — блок с дополнительной информацией
 
     widget — виджет, например, в боковой колонке
+## Карточка 
+	card
+## Избранное 
+	Favorits
+
 ## Раскладка
     
     wrapper, wrap — обёртка, обычно внешняя
