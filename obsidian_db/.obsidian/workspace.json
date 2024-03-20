@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "9cfe040873d53bb9",
+        "id": "79aef82e9dcacafe",
         "type": "tabs",
         "children": [
           {
-            "id": "a9e7b61f2b75c3f3",
+            "id": "861eb6761986b0cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "IT/Work_Web/custom-selector.md",
+=======
+                "file": "IT/Work_Web/Name class.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b4e8671e2222454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Web/HTML/Верстка писем/Верстка писем.md",
+>>>>>>> 68488ca9eb121cc767fe4a0955522ff749c4ee84
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 300
   },
   "right": {
     "id": "e6200b241dc5a02b",
@@ -85,7 +102,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "IT/Work_Web/custom-selector.md",
+=======
+                "file": "IT/Web/HTML/Верстка писем/Верстка писем.md",
+>>>>>>> 68488ca9eb121cc767fe4a0955522ff749c4ee84
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "IT/Work_Web/custom-selector.md",
+=======
+                "file": "IT/Web/HTML/Верстка писем/Верстка писем.md",
+>>>>>>> 68488ca9eb121cc767fe4a0955522ff749c4ee84
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "IT/Work_Web/custom-selector.md"
+=======
+                "file": "IT/Web/HTML/Верстка писем/Верстка писем.md"
+>>>>>>> 68488ca9eb121cc767fe4a0955522ff749c4ee84
               }
             }
           }
@@ -146,8 +175,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9e7b61f2b75c3f3",
+  "active": "0b4e8671e2222454",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "IT/Work_Web/var().md",
     "IT/Work_Web/custom-selector.md",
     "IT/Work_Web/Name class.md",
@@ -158,42 +188,59 @@
     "IT/Web/Css/Взаимодействие пользователя с сайтом/resize.md",
     "IT/Work_Web/ламко/normolize.md",
     "IT/Work_Web/Name var.md",
+=======
+    "IT/Web/HTML/Верстка писем/Верстка писем шаблон.md",
+    "IT/Web/HTML/Верстка писем/Верстка писем.md",
+    "IT/Web/HTML/Верстка писем",
+    "nvim/nvim.md",
+    "nvim",
+>>>>>>> 68488ca9eb121cc767fe4a0955522ff749c4ee84
     "auto-fit.md",
-    "IT/Work_Web/Grid",
-    "IT/Work_Web/modules html scss js/pagination",
-    "IT/Work_Web/modules html scss js",
-    "IT/Web/HTML/Open Graph.md",
-    "Obsidian/Obsidian.md",
-    "IT/Web/Css/Form/input.md",
-    "IT/Web/Css/Form/000 Заметки.md",
-    "IT/Work_Web/Font.md",
-    "IT/Web/Css/Animation.md",
-    "IT/Web/Img/img-makeev/img-makeev.md",
-    "IT/Web/Img/retina jpg webp.md",
-    "Ubuntu/wine.md",
-    "IT/Web/Img/aspect-ratio.md",
-    "IT/Web/Img/img.md",
-    "IT/Web/Img/Retina.md",
-    "IT/Web/Img/Как подготовить вёрстку к Retina-экранам.md",
     "Ubuntu/обновление програм.md",
     "Ubuntu/Готовые архивы Pre-built archives.md",
+<<<<<<< HEAD
     "IT/Work_Web/template",
     "nvim",
+=======
+    "Ubuntu/wine.md",
+    "Ubuntu/ripgrep (для поиска по файлам).md",
+    "Ubuntu/neovim 7.md",
+    "Ubuntu/install vim.md",
+    "Ubuntu/git.md",
+    "Ubuntu/add user.md",
+    "Ubuntu/CocInstall.md",
+>>>>>>> 68488ca9eb121cc767fe4a0955522ff749c4ee84
     "Ubuntu",
-    "Pasted image 20240210043253.png",
-    "Pasted image 20240206174610.png",
-    "Pasted image 20240206174456.png",
+    "IT/how load site.md",
+    "IT/Work_Web/ссылка на всю карту.md",
+    "IT/Work_Web/процент %.md",
+    "IT/Work_Web/ламко/верстка ламко.md",
+    "IT/Work_Web/ламко/normolize.md",
     "IT/Work_Web/ламко",
+    "IT/Work_Web/Резиновая верстка.md",
+    "IT/Work_Web/Как сверстать макет. Пошаговый план.md",
+    "IT/Work_Web/Без названия.md",
+    "IT/Work_Web/var().md",
+    "IT/Work_Web/template/logo.md",
+    "IT/Work_Web/template",
+    "IT/Work_Web/svg sprite.md",
+    "IT/Work_Web/modules html scss js/pagination/pagination.md",
+    "IT/Work_Web/modules html scss js/pagination",
+    "IT/Work_Web/modules html scss js",
+    "IT/Work_Web/gulp/gulp.md",
+    "IT/Work_Web/gulp",
+    "IT/Web/Scss",
     "IT/Web/Img/img-makeev",
-    "000_FILES/Pasted image 20240205195108.png",
+    "000_FILES/Pasted image 20240210043253.png",
+    "000_FILES/Pasted image 20240208204534.png",
+    "000_FILES/Pasted image 20240206174610.png",
+    "000_FILES/Pasted image 20240206174456.png",
     "000_FILES/Pasted image 20240206031500.png",
     "000_FILES/Pasted image 20240206013231.png",
     "000_FILES/Pasted image 20240205200628.png",
     "000_FILES/Pasted image 20240205195226.png",
     "000_FILES/Pasted image 20240205195147.png",
-    "000_FILES/Pasted image 20240204185128.png",
-    "IT/Work_Web/gulp",
-    "тз dat",
+    "000_FILES/Pasted image 20240205195108.png",
     "Без названия.canvas"
   ]
 }
