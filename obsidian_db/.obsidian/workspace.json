@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Work_Web/var().md",
+                "file": "IT/Work_Web/custom-selector.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Work_Web/var().md",
+                "file": "IT/Work_Web/custom-selector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Work_Web/var().md",
+                "file": "IT/Work_Web/custom-selector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Work_Web/var().md"
+                "file": "IT/Work_Web/custom-selector.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "a9e7b61f2b75c3f3",
   "lastOpenFiles": [
-    "IT/Work_Web/Name class.md",
     "IT/Work_Web/var().md",
+    "IT/Work_Web/custom-selector.md",
+    "IT/Work_Web/Name class.md",
     "IT/Web/Css/Form/Form exemple.md",
     "IT/Work_Web/modules html scss js/pagination/pagination.md",
     "IT/Work_Web/ссылка на всю карту.md",
@@ -176,7 +177,6 @@
     "IT/Web/Img/Как подготовить вёрстку к Retina-экранам.md",
     "Ubuntu/обновление програм.md",
     "Ubuntu/Готовые архивы Pre-built archives.md",
-    "Ubuntu/ripgrep (для поиска по файлам).md",
     "IT/Work_Web/template",
     "nvim",
     "Ubuntu",
