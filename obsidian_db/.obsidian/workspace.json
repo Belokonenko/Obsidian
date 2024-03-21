@@ -1,56 +1,39 @@
 {
   "main": {
-    "id": "2db907a80036d6fe",
+    "id": "78aea24595544ce0",
     "type": "split",
     "children": [
       {
-        "id": "79aef82e9dcacafe",
+        "id": "9d0a01103343c9b2",
         "type": "tabs",
         "children": [
           {
-            "id": "861eb6761986b0cf",
+            "id": "64b14092ddc3a8ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "IT/Work_Web/custom-selector.md",
-=======
-                "file": "IT/Work_Web/Name class.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b4e8671e2222454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Web/HTML/Верстка писем/Верстка писем.md",
->>>>>>> 68488ca9eb121cc767fe4a0955522ff749c4ee84
+                "file": "IT/JS/article/События на мобильных устройствах.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b6040ec7b6052a9f",
+    "id": "ba3a34f577c17084",
     "type": "split",
     "children": [
       {
-        "id": "2a72e341dc06e0ca",
+        "id": "1d929d509717f397",
         "type": "tabs",
         "children": [
           {
-            "id": "9898af522f362ac4",
+            "id": "7887493b9a9cef70",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,7 +43,7 @@
             }
           },
           {
-            "id": "fa29de25106a147c",
+            "id": "69f08d525d97a1da",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +58,7 @@
             }
           },
           {
-            "id": "3b85326f0de8cb09",
+            "id": "96fd5fdebb3f6211",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,55 +69,48 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "e6200b241dc5a02b",
+    "id": "70f155c4b7c3ab4a",
     "type": "split",
     "children": [
       {
-        "id": "16feca6ba9ffa919",
+        "id": "dd0b53b2f2a51be3",
         "type": "tabs",
         "children": [
           {
-            "id": "dddcd22fd8eebfea",
+            "id": "79ec568fdb1f954c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "IT/Work_Web/custom-selector.md",
-=======
-                "file": "IT/Web/HTML/Верстка писем/Верстка писем.md",
->>>>>>> 68488ca9eb121cc767fe4a0955522ff749c4ee84
+                "file": "IT/JS/article/События на мобильных устройствах.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8bf1c57599f86498",
+            "id": "9c3e58517bfd2e09",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "IT/Work_Web/custom-selector.md",
-=======
-                "file": "IT/Web/HTML/Верстка писем/Верстка писем.md",
->>>>>>> 68488ca9eb121cc767fe4a0955522ff749c4ee84
+                "file": "IT/JS/article/События на мобильных устройствах.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3ae737cc9d1e396e",
+            "id": "05d5dc216819d939",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,16 +121,12 @@
             }
           },
           {
-            "id": "e0b9ba08cfea0600",
+            "id": "1629ff533cdcc241",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "IT/Work_Web/custom-selector.md"
-=======
-                "file": "IT/Web/HTML/Верстка писем/Верстка писем.md"
->>>>>>> 68488ca9eb121cc767fe4a0955522ff749c4ee84
+                "file": "IT/JS/article/События на мобильных устройствах.md"
               }
             }
           }
@@ -175,72 +147,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b4e8671e2222454",
+  "active": "64b14092ddc3a8ce",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "IT/Work_Web/var().md",
-    "IT/Work_Web/custom-selector.md",
-    "IT/Work_Web/Name class.md",
-    "IT/Web/Css/Form/Form exemple.md",
-    "IT/Work_Web/modules html scss js/pagination/pagination.md",
-    "IT/Work_Web/ссылка на всю карту.md",
-    "IT/Web/Css/Form/Готовый шаблон HTML-формы.md",
-    "IT/Web/Css/Взаимодействие пользователя с сайтом/resize.md",
-    "IT/Work_Web/ламко/normolize.md",
-    "IT/Work_Web/Name var.md",
-=======
-    "IT/Web/HTML/Верстка писем/Верстка писем шаблон.md",
-    "IT/Web/HTML/Верстка писем/Верстка писем.md",
-    "IT/Web/HTML/Верстка писем",
-    "nvim/nvim.md",
-    "nvim",
->>>>>>> 68488ca9eb121cc767fe4a0955522ff749c4ee84
-    "auto-fit.md",
-    "Ubuntu/обновление програм.md",
-    "Ubuntu/Готовые архивы Pre-built archives.md",
-<<<<<<< HEAD
-    "IT/Work_Web/template",
-    "nvim",
-=======
-    "Ubuntu/wine.md",
-    "Ubuntu/ripgrep (для поиска по файлам).md",
-    "Ubuntu/neovim 7.md",
-    "Ubuntu/install vim.md",
-    "Ubuntu/git.md",
-    "Ubuntu/add user.md",
-    "Ubuntu/CocInstall.md",
->>>>>>> 68488ca9eb121cc767fe4a0955522ff749c4ee84
-    "Ubuntu",
-    "IT/how load site.md",
-    "IT/Work_Web/ссылка на всю карту.md",
-    "IT/Work_Web/процент %.md",
-    "IT/Work_Web/ламко/верстка ламко.md",
-    "IT/Work_Web/ламко/normolize.md",
-    "IT/Work_Web/ламко",
-    "IT/Work_Web/Резиновая верстка.md",
-    "IT/Work_Web/Как сверстать макет. Пошаговый план.md",
-    "IT/Work_Web/Без названия.md",
-    "IT/Work_Web/var().md",
-    "IT/Work_Web/template/logo.md",
-    "IT/Work_Web/template",
-    "IT/Work_Web/svg sprite.md",
-    "IT/Work_Web/modules html scss js/pagination/pagination.md",
-    "IT/Work_Web/modules html scss js/pagination",
-    "IT/Work_Web/modules html scss js",
-    "IT/Work_Web/gulp/gulp.md",
-    "IT/Work_Web/gulp",
-    "IT/Web/Scss",
-    "IT/Web/Img/img-makeev",
-    "000_FILES/Pasted image 20240210043253.png",
-    "000_FILES/Pasted image 20240208204534.png",
-    "000_FILES/Pasted image 20240206174610.png",
-    "000_FILES/Pasted image 20240206174456.png",
-    "000_FILES/Pasted image 20240206031500.png",
-    "000_FILES/Pasted image 20240206013231.png",
-    "000_FILES/Pasted image 20240205200628.png",
-    "000_FILES/Pasted image 20240205195226.png",
-    "000_FILES/Pasted image 20240205195147.png",
-    "000_FILES/Pasted image 20240205195108.png",
-    "Без названия.canvas"
+    "IT/JS/code/hummer-js/script.js",
+    "IT/JS/code/hummer-js/index.html",
+    "IT/JS/code/hummer-js/scrip.js",
+    "IT/JS/code/hummer-js/hummer.js",
+    "IT/JS/code/hummer-js",
+    "IT/JS/code/hummer.js",
+    "link.md",
+    "IT/JS/article/События на мобильных устройствах.md",
+    "IT/JS/article/шпора.md",
+    "IT/JS/000 map js.md",
+    "IT/JS/article/Async Defer.md",
+    "IT/JS/article",
+    "IT/JS/img",
+    "IT/JS/article/Export import.md",
+    "IT/JS/code/Async Defer/script2.js",
+    "IT/JS/code/Async Defer/script.js",
+    "IT/JS/code/Async Defer/index.html",
+    "IT/Git/Git_shpora.md",
+    "IT/JS/article/Css переменная.md",
+    "Obsidian/Obsidian.md"
   ]
 }
