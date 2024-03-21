@@ -1,56 +1,37 @@
 {
   "main": {
-    "id": "2db907a80036d6fe",
+    "id": "257f9be87f4863d3",
     "type": "split",
     "children": [
       {
-        "id": "79aef82e9dcacafe",
+        "id": "db422b454adb2c15",
         "type": "tabs",
         "children": [
           {
-            "id": "861eb6761986b0cf",
+            "id": "06a5a01ab79014ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-<<<<<<< HEAD
-                "file": "IT/Work_Web/custom-selector.md",
-=======
-                "file": "IT/Work_Web/Name class.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b4e8671e2222454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Web/HTML/Верстка писем/Верстка писем.md",
->>>>>>> 68488ca9eb121cc767fe4a0955522ff749c4ee84
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.5.11"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b6040ec7b6052a9f",
+    "id": "e985ecbe096f1dfa",
     "type": "split",
     "children": [
       {
-        "id": "2a72e341dc06e0ca",
+        "id": "d7f8612fc3ea7652",
         "type": "tabs",
         "children": [
           {
-            "id": "9898af522f362ac4",
+            "id": "2f9fe7990a1f8e5d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,12 +41,12 @@
             }
           },
           {
-            "id": "fa29de25106a147c",
+            "id": "97c1122990737c7b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dialog",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,66 +56,57 @@
             }
           },
           {
-            "id": "3b85326f0de8cb09",
+            "id": "944421ffee2cf853",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "e6200b241dc5a02b",
+    "id": "d8e7f5db01c2d65b",
     "type": "split",
     "children": [
       {
-        "id": "16feca6ba9ffa919",
+        "id": "727f0eb86ee4fd1a",
         "type": "tabs",
         "children": [
           {
-            "id": "dddcd22fd8eebfea",
+            "id": "3c24ee541e5e1664",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "IT/Work_Web/custom-selector.md",
-=======
-                "file": "IT/Web/HTML/Верстка писем/Верстка писем.md",
->>>>>>> 68488ca9eb121cc767fe4a0955522ff749c4ee84
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8bf1c57599f86498",
+            "id": "469dd166fc87552a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "IT/Work_Web/custom-selector.md",
-=======
-                "file": "IT/Web/HTML/Верстка писем/Верстка писем.md",
->>>>>>> 68488ca9eb121cc767fe4a0955522ff749c4ee84
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3ae737cc9d1e396e",
+            "id": "3ede5bcf4f65f929",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,17 +117,11 @@
             }
           },
           {
-            "id": "e0b9ba08cfea0600",
+            "id": "dd41282b379e8804",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "IT/Work_Web/custom-selector.md"
-=======
-                "file": "IT/Web/HTML/Верстка писем/Верстка писем.md"
->>>>>>> 68488ca9eb121cc767fe4a0955522ff749c4ee84
-              }
+              "state": {}
             }
           }
         ]
@@ -175,72 +141,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b4e8671e2222454",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "IT/Work_Web/var().md",
-    "IT/Work_Web/custom-selector.md",
-    "IT/Work_Web/Name class.md",
-    "IT/Web/Css/Form/Form exemple.md",
-    "IT/Work_Web/modules html scss js/pagination/pagination.md",
-    "IT/Work_Web/ссылка на всю карту.md",
-    "IT/Web/Css/Form/Готовый шаблон HTML-формы.md",
-    "IT/Web/Css/Взаимодействие пользователя с сайтом/resize.md",
-    "IT/Work_Web/ламко/normolize.md",
-    "IT/Work_Web/Name var.md",
-=======
-    "IT/Web/HTML/Верстка писем/Верстка писем шаблон.md",
-    "IT/Web/HTML/Верстка писем/Верстка писем.md",
-    "IT/Web/HTML/Верстка писем",
-    "nvim/nvim.md",
-    "nvim",
->>>>>>> 68488ca9eb121cc767fe4a0955522ff749c4ee84
-    "auto-fit.md",
-    "Ubuntu/обновление програм.md",
-    "Ubuntu/Готовые архивы Pre-built archives.md",
-<<<<<<< HEAD
-    "IT/Work_Web/template",
-    "nvim",
-=======
-    "Ubuntu/wine.md",
-    "Ubuntu/ripgrep (для поиска по файлам).md",
-    "Ubuntu/neovim 7.md",
-    "Ubuntu/install vim.md",
-    "Ubuntu/git.md",
-    "Ubuntu/add user.md",
-    "Ubuntu/CocInstall.md",
->>>>>>> 68488ca9eb121cc767fe4a0955522ff749c4ee84
-    "Ubuntu",
-    "IT/how load site.md",
-    "IT/Work_Web/ссылка на всю карту.md",
-    "IT/Work_Web/процент %.md",
-    "IT/Work_Web/ламко/верстка ламко.md",
-    "IT/Work_Web/ламко/normolize.md",
-    "IT/Work_Web/ламко",
-    "IT/Work_Web/Резиновая верстка.md",
-    "IT/Work_Web/Как сверстать макет. Пошаговый план.md",
-    "IT/Work_Web/Без названия.md",
-    "IT/Work_Web/var().md",
-    "IT/Work_Web/template/logo.md",
-    "IT/Work_Web/template",
-    "IT/Work_Web/svg sprite.md",
-    "IT/Work_Web/modules html scss js/pagination/pagination.md",
-    "IT/Work_Web/modules html scss js/pagination",
-    "IT/Work_Web/modules html scss js",
-    "IT/Work_Web/gulp/gulp.md",
-    "IT/Work_Web/gulp",
-    "IT/Web/Scss",
-    "IT/Web/Img/img-makeev",
-    "000_FILES/Pasted image 20240210043253.png",
-    "000_FILES/Pasted image 20240208204534.png",
-    "000_FILES/Pasted image 20240206174610.png",
-    "000_FILES/Pasted image 20240206174456.png",
-    "000_FILES/Pasted image 20240206031500.png",
-    "000_FILES/Pasted image 20240206013231.png",
-    "000_FILES/Pasted image 20240205200628.png",
-    "000_FILES/Pasted image 20240205195226.png",
-    "000_FILES/Pasted image 20240205195147.png",
-    "000_FILES/Pasted image 20240205195108.png",
-    "Без названия.canvas"
-  ]
+  "active": "97c1122990737c7b",
+  "lastOpenFiles": []
 }
