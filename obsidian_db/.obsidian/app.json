@@ -2,7 +2,7 @@
   "vimMode": true,
   "defaultViewMode": "source",
   "livePreview": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "files",
   "alwaysUpdateLinks": true

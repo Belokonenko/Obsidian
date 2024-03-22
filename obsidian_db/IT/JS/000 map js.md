@@ -1,4 +1,4 @@
-1.  [[Async Defer]]
+1. [[Async Defer]]
 2. [[шпора]]
 3. [[Css переменная]]
 4. [[Export import]]
