@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 1. [[Async Defer]]
+=======
+1.  [[Async Defer]]
+>>>>>>> b90dec5e2a923442e0a839a4994d2d48a262dd0c
 2. [[шпора]]
 3. [[Css переменная]]
 4. [[Export import]]
