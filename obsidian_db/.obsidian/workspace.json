@@ -1,94 +1,39 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "257f9be87f4863d3",
+    "id": "d05778eb3d4ca7fd",
     "type": "split",
     "children": [
       {
-        "id": "db422b454adb2c15",
+        "id": "4cf42a2260390371",
         "type": "tabs",
         "children": [
           {
-            "id": "06a5a01ab79014ec",
-=======
-    "id": "78aea24595544ce0",
-    "type": "split",
-    "children": [
-      {
-        "id": "9d0a01103343c9b2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "64b14092ddc3a8ce",
->>>>>>> b90dec5e2a923442e0a839a4994d2d48a262dd0c
+            "id": "558bee83e5575dd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "IT/bootstrap/Установка bootstrap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99552a5e788a9d73",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "IT/bootstrap/img/Screenshot from 2024-03-21 16-47-25.png"
-              }
-            }
-          },
-          {
-            "id": "be9569a08705c395",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/bootstrap/Установка bootstrap.md",
-=======
-                "file": "IT/JS/article/События на мобильных устройствах.md",
->>>>>>> b90dec5e2a923442e0a839a4994d2d48a262dd0c
-                "mode": "source",
+                "file": "IT/bootstrap/000 map bootstrap.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-<<<<<<< HEAD
-        ],
-        "currentTab": 2
-=======
         ]
->>>>>>> b90dec5e2a923442e0a839a4994d2d48a262dd0c
       }
     ],
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "e985ecbe096f1dfa",
+    "id": "f85cd089020eba70",
     "type": "split",
     "children": [
       {
-        "id": "d7f8612fc3ea7652",
+        "id": "6ac2d045714ac674",
         "type": "tabs",
         "children": [
           {
-            "id": "2f9fe7990a1f8e5d",
-=======
-    "id": "ba3a34f577c17084",
-    "type": "split",
-    "children": [
-      {
-        "id": "1d929d509717f397",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7887493b9a9cef70",
->>>>>>> b90dec5e2a923442e0a839a4994d2d48a262dd0c
+            "id": "a5a534869c093581",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -98,11 +43,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "97c1122990737c7b",
-=======
-            "id": "69f08d525d97a1da",
->>>>>>> b90dec5e2a923442e0a839a4994d2d48a262dd0c
+            "id": "5b07581b2c6f9d3c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -117,11 +58,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "944421ffee2cf853",
-=======
-            "id": "96fd5fdebb3f6211",
->>>>>>> b90dec5e2a923442e0a839a4994d2d48a262dd0c
+            "id": "8534533701d552e3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -132,40 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "d8e7f5db01c2d65b",
+    "id": "95d116d3b193a7a9",
     "type": "split",
     "children": [
       {
-        "id": "727f0eb86ee4fd1a",
+        "id": "b522ab94da80bf97",
         "type": "tabs",
         "children": [
           {
-            "id": "3c24ee541e5e1664",
-=======
-    "id": "70f155c4b7c3ab4a",
-    "type": "split",
-    "children": [
-      {
-        "id": "dd0b53b2f2a51be3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "79ec568fdb1f954c",
->>>>>>> b90dec5e2a923442e0a839a4994d2d48a262dd0c
+            "id": "0bf7bc9a6a928d77",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "IT/bootstrap/Установка bootstrap.md",
-=======
-                "file": "IT/JS/article/События на мобильных устройствах.md",
->>>>>>> b90dec5e2a923442e0a839a4994d2d48a262dd0c
+                "file": "IT/bootstrap/000 map bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,31 +97,19 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "469dd166fc87552a",
-=======
-            "id": "9c3e58517bfd2e09",
->>>>>>> b90dec5e2a923442e0a839a4994d2d48a262dd0c
+            "id": "e5a6187cf97ae772",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "IT/bootstrap/Установка bootstrap.md",
-=======
-                "file": "IT/JS/article/События на мобильных устройствах.md",
->>>>>>> b90dec5e2a923442e0a839a4994d2d48a262dd0c
+                "file": "IT/bootstrap/000 map bootstrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-<<<<<<< HEAD
-            "id": "3ede5bcf4f65f929",
-=======
-            "id": "05d5dc216819d939",
->>>>>>> b90dec5e2a923442e0a839a4994d2d48a262dd0c
+            "id": "de39af0b62912880",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -212,20 +120,12 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "dd41282b379e8804",
-=======
-            "id": "1629ff533cdcc241",
->>>>>>> b90dec5e2a923442e0a839a4994d2d48a262dd0c
+            "id": "e4e9a15943c49841",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "IT/bootstrap/Установка bootstrap.md"
-=======
-                "file": "IT/JS/article/События на мобильных устройствах.md"
->>>>>>> b90dec5e2a923442e0a839a4994d2d48a262dd0c
+                "file": "IT/bootstrap/000 map bootstrap.md"
               }
             }
           }
@@ -246,60 +146,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-<<<<<<< HEAD
-  "active": "2f9fe7990a1f8e5d",
+  "active": "558bee83e5575dd2",
   "lastOpenFiles": [
-    "IT/bootstrap/code/001_botstrap-cdn/3q",
-    "IT/bootstrap/code/001_botstrap-cdn/index.html",
-    "IT/bootstrap/code/001_botstrap-cdn",
-    "IT/bootstrap/code/001_botstrap/index.html",
-    "IT/bootstrap/code/001_botstrap",
-    "IT/bootstrap/code/000_botstrap-form",
-    "IT/bootstrap/code/000_bootstrap-setup/js/bootstrap.min.js",
-    "IT/bootstrap/code/000_bootstrap-setup/js/bootstrap.bundle.min.js",
-    "IT/bootstrap/code/000_bootstrap-setup/css/bootstrap.css",
-    "IT/bootstrap/code/000_bootstrap-setup/index.html",
-    "IT/bootstrap/code/000_bootstrap-setup/index-cdn.html",
-    "Pasted image 20240322081456.png",
-    "Pasted image 20240322081335.png",
-    "IT/bootstrap/000 map bootstrap.md",
-    "IT/bootstrap/Установка bootstrap.md",
-    "IT/bootstrap/img/Screenshot from 2024-03-21 16-50-33.png",
-    "IT/bootstrap/img/Screenshot from 2024-03-21 16-47-25.png",
-    "IT/bootstrap/img/Screenshot from 2024-03-21 16-56-44.png",
-    "IT/Work_Web/000 Steps work ( шаги работы).md",
-    "IT/Work_Web/ламко/normolize.md",
-    "IT/Work_Web/ламко/верстка ламко.md",
-    "IT/Work_Web/Без названия 1.md",
-    "IT/JS/article/События на мобильных устройствах.md",
-    "IT/JS/000 map js.md",
-    "IT/JS/article/Export import.md",
-    "IT/JS/article/шпора.md",
-    "IT/JS/article/Async Defer.md",
-    "IT/JS/article/Css переменная.md"
-=======
-  "active": "64b14092ddc3a8ce",
-  "lastOpenFiles": [
-    "IT/JS/code/hummer-js/script.js",
-    "IT/JS/code/hummer-js/index.html",
-    "IT/JS/code/hummer-js/scrip.js",
-    "IT/JS/code/hummer-js/hummer.js",
-    "IT/JS/code/hummer-js",
-    "IT/JS/code/hummer.js",
-    "link.md",
-    "IT/JS/article/События на мобильных устройствах.md",
-    "IT/JS/article/шпора.md",
-    "IT/JS/000 map js.md",
-    "IT/JS/article/Async Defer.md",
-    "IT/JS/article",
-    "IT/JS/img",
-    "IT/JS/article/Export import.md",
-    "IT/JS/code/Async Defer/script2.js",
-    "IT/JS/code/Async Defer/script.js",
-    "IT/JS/code/Async Defer/index.html",
-    "IT/Git/Git_shpora.md",
-    "IT/JS/article/Css переменная.md",
-    "Obsidian/Obsidian.md"
->>>>>>> b90dec5e2a923442e0a839a4994d2d48a262dd0c
+    "IT/bootstrap/article/Без названия.md",
+    "IT/computer since/computer since.md",
+    "IT/bootstrap/code/003_flex-grid/js/bootstrap.min.js",
+    "IT/bootstrap/code/003_flex-grid/js/bootstrap.bundle.min.js",
+    "IT/bootstrap/code/003_flex-grid/css/bootstrap.css",
+    "IT/bootstrap/code/003_flex-grid/js",
+    "IT/bootstrap/code/003_flex-grid/index.html",
+    "IT/bootstrap/code/003_flex-grid/css",
+    "IT/bootstrap/code/003_flex-grid",
+    "IT/bootstrap/code/003_boot/js/bootstrap.min.js",
+    "IT/bootstrap/code/003_boot/js/bootstrap.bundle.min.js",
+    "IT/bootstrap/code/003_boot/css/bootstrap.css"
   ]
 }
