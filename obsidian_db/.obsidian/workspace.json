@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "e270a7b72170db26",
     "type": "split",
     "children": [
@@ -9,11 +10,28 @@
         "children": [
           {
             "id": "04e4270c4ec16855",
+=======
+    "id": "d05778eb3d4ca7fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cf42a2260390371",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "558bee83e5575dd2",
+>>>>>>> 73099699dbb33c0c196fba8baf4d5832aedf9e1b
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
+<<<<<<< HEAD
                 "currentVersion": "1.5.11"
+=======
+                "file": "IT/bootstrap/000 map bootstrap.md",
+                "mode": "preview",
+                "source": false
+>>>>>>> 73099699dbb33c0c196fba8baf4d5832aedf9e1b
               }
             }
           }
@@ -23,6 +41,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "70c8f4cd55843d99",
     "type": "split",
     "children": [
@@ -32,6 +51,17 @@
         "children": [
           {
             "id": "54b20be6bdea9a9d",
+=======
+    "id": "f85cd089020eba70",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ac2d045714ac674",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5a534869c093581",
+>>>>>>> 73099699dbb33c0c196fba8baf4d5832aedf9e1b
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,7 +71,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "29e8f5325ebcf7d5",
+=======
+            "id": "5b07581b2c6f9d3c",
+>>>>>>> 73099699dbb33c0c196fba8baf4d5832aedf9e1b
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,7 +90,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "346af77d65f84273",
+=======
+            "id": "8534533701d552e3",
+>>>>>>> 73099699dbb33c0c196fba8baf4d5832aedf9e1b
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,6 +108,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "0101d2d97e0bec64",
     "type": "split",
     "children": [
@@ -79,10 +118,25 @@
         "children": [
           {
             "id": "3887f2c0c3da279d",
+=======
+    "id": "95d116d3b193a7a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b522ab94da80bf97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bf7bc9a6a928d77",
+>>>>>>> 73099699dbb33c0c196fba8baf4d5832aedf9e1b
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "IT/bootstrap/000 map bootstrap.md",
+>>>>>>> 73099699dbb33c0c196fba8baf4d5832aedf9e1b
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,18 +148,30 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "5c45036a438137af",
+=======
+            "id": "e5a6187cf97ae772",
+>>>>>>> 73099699dbb33c0c196fba8baf4d5832aedf9e1b
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
+=======
+                "file": "IT/bootstrap/000 map bootstrap.md",
+>>>>>>> 73099699dbb33c0c196fba8baf4d5832aedf9e1b
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "abc7a09d8142074f",
+=======
+            "id": "de39af0b62912880",
+>>>>>>> 73099699dbb33c0c196fba8baf4d5832aedf9e1b
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -116,11 +182,21 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "c5ab44bbe3c4bccc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
+=======
+            "id": "e4e9a15943c49841",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "IT/bootstrap/000 map bootstrap.md"
+              }
+>>>>>>> 73099699dbb33c0c196fba8baf4d5832aedf9e1b
             }
           }
         ]
@@ -140,6 +216,24 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "04e4270c4ec16855",
   "lastOpenFiles": []
+=======
+  "active": "558bee83e5575dd2",
+  "lastOpenFiles": [
+    "IT/bootstrap/article/Без названия.md",
+    "IT/computer since/computer since.md",
+    "IT/bootstrap/code/003_flex-grid/js/bootstrap.min.js",
+    "IT/bootstrap/code/003_flex-grid/js/bootstrap.bundle.min.js",
+    "IT/bootstrap/code/003_flex-grid/css/bootstrap.css",
+    "IT/bootstrap/code/003_flex-grid/js",
+    "IT/bootstrap/code/003_flex-grid/index.html",
+    "IT/bootstrap/code/003_flex-grid/css",
+    "IT/bootstrap/code/003_flex-grid",
+    "IT/bootstrap/code/003_boot/js/bootstrap.min.js",
+    "IT/bootstrap/code/003_boot/js/bootstrap.bundle.min.js",
+    "IT/bootstrap/code/003_boot/css/bootstrap.css"
+  ]
+>>>>>>> 73099699dbb33c0c196fba8baf4d5832aedf9e1b
 }

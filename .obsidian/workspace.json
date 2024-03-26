@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "78fa86567b9e968b",
+        "id": "63d9fd78f9b9e2ae",
         "type": "tabs",
         "children": [
           {
-            "id": "93fc36816b8dd4cf",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "obsidian_db/000_FILES/Pasted image 20240206174456.png"
-              }
-            }
-          },
-          {
-            "id": "2ddc41a29d3348a9",
+            "id": "053c358bcc3ee6dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian_db/IT/Web/Img/Как подготовить вёрстку к Retina-экранам.md",
+                "file": "obsidian_db/IT/js книга.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian_db/IT/Web/Img/Как подготовить вёрстку к Retina-экранам.md",
+                "file": "obsidian_db/IT/js книга.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian_db/IT/Web/Img/Как подготовить вёрстку к Retina-экранам.md",
+                "file": "obsidian_db/IT/js книга.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian_db/IT/Web/Img/Как подготовить вёрстку к Retina-экранам.md"
+                "file": "obsidian_db/IT/js книга.md"
               }
             }
           }
@@ -158,12 +146,41 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "253c069d75e2d656",
+  "active": "053c358bcc3ee6dc",
   "lastOpenFiles": [
+    "obsidian_db/IT/Git/Заголовок коммита.md",
+    "obsidian_db/IT/js книга.md",
+    "obsidian_db/IT/JS/000 map js.md",
+    "obsidian_db/IT/JS/article/Операторы приоритет.md",
+    "obsidian_db/IT/JS/article/Операторы.md",
+    "obsidian_db/IT/JS/article/Без названия",
+    "obsidian_db/IT/JS/article/Интерполяция.md",
+    "obsidian_db/IT/bootstrap/Установка bootstrap.md",
+    "obsidian_db/IT/bootstrap/000 map bootstrap.md",
+    "obsidian_db/IT/JS/article/События на мобильных устройствах.md",
+    "obsidian_db/IT/JS/article/шпора.md",
+    "obsidian_db/IT/JS/article/Типы данных.md",
+    "obsidian_db/IT/JS/article/use strict.md",
+    "obsidian_db/IT/JS/article/Name const let class.md",
+    "obsidian_db/IT/JS/article/object.md",
+    "obsidian_db/IT/JS/code/object/script.js",
+    "obsidian_db/IT/JS/code/object/index.html",
+    "obsidian_db/IT/JS/code/object",
+    "obsidian_db/IT/JS/code/Untitled Folder",
+    "obsidian_db/IT/JS/article/Async Defer.md",
+    "005 types-2020.jpg",
+    "obsidian_db/000_FILES/Без названия 1.md",
+    "obsidian_db/IT/bootstrap/img/Pasted image 20240322081335.png",
+    "obsidian_db/IT/bootstrap/img/Screenshot from 2024-03-21 16-56-44.png",
+    "obsidian_db/IT/bootstrap/img/Screenshot from 2024-03-21 16-50-33.png",
+    "obsidian_db/IT/bootstrap/img/Screenshot from 2024-03-21 16-47-25.png",
+    "obsidian_db/IT/bootstrap/img/Pasted image 20240322081456.png",
+    "obsidian_db/IT/JS/article/Css переменная(управление чере js).md",
+    "obsidian_db/IT/JS/article/Export import.md",
+    "obsidian_db/000_FILES/Pasted image 20240206174456.png",
     "obsidian_db/IT/Web/Scss/@mixin.md",
     "obsidian_db/000_FILES/Pasted image 20240208204534.png",
     "obsidian_db/000_FILES/Pasted image 20240206174610.png",
-    "obsidian_db/000_FILES/Pasted image 20240206174456.png",
     "obsidian_db/тз dat/наполнение 4.md",
     "obsidian_db/IT/Web/HTML/цитата.md",
     "obsidian_db/IT/Web/HTML/Шаблон простого сайта на HTML.md",
@@ -171,40 +188,11 @@
     "obsidian_db/IT/Web/Css/visbility.md",
     "obsidian_db/IT/Web/Css/svh, lvh, dvh.md",
     "obsidian_db/IT/Web/Css/ovrerflow.md",
-    "obsidian_db/IT/Web/Css/opacity.md",
-    "obsidian_db/IT/Web/Img/img.md",
-    "obsidian_db/IT/Web/Css/background.md",
-    "obsidian_db/IT/Web/Css/Animation.md",
-    "obsidian_db/IT/Web/Css/Псевдоэлемент.md",
-    "obsidian_db/IT/Web/Css/Псевдокласс.md",
-    "obsidian_db/IT/Web/Css/Как подготовить вёрстку к Retina-экранам.md",
-    "obsidian_db/IT/Web/Css/адаптация.md",
-    "obsidian_db/IT/Web/Css/Без названия.md",
-    "obsidian_db/IT/Web/Css/nav/nav.md",
-    "obsidian_db/IT/Web/Css/Grid/Grid.md",
-    "obsidian_db/IT/Web/Css/Form/Select.md",
-    "obsidian_db/IT/Web/Css/Form/input.md",
-    "obsidian_db/IT/Web/Css/Form/Form exemple.md",
-    "obsidian_db/IT/Web/Css/Form/Атрибут `autocomplete`.md",
-    "obsidian_db/IT/Web/Css/Form/000 Заметки.md",
-    "obsidian_db/IT/Web/Img/Retina.md",
-    "obsidian_db/IT/Web/Img/Как подготовить вёрстку к Retina-экранам.md",
     "obsidian_db/IT/Web/Img",
     "obsidian_db/000_FILES/Pasted image 20240203161248.png",
-    "obsidian_db/000_FILES/Pasted image 20240203161534.png",
-    "obsidian_db/000_FILES/Pasted image 20240203162428.png",
-    "obsidian_db/000_FILES/Pasted image 20240204150649.png",
-    "obsidian_db/000_FILES/Pasted image 20240204151145.png",
     "obsidian_db/IT/Web/HTML",
     "obsidian_db/IT/Web/Css/Без названия",
-    "obsidian_db/000_FILES/Pasted image 20240203150027.png",
-    "obsidian_db/000_FILES/Pasted image 20240203160632.png",
     "obsidian_db/IT/Web/Scss",
-    "obsidian_db/IT/Без названия",
-    "obsidian_db/IT/Web/Css/transition",
-    "obsidian_db/IT/Web/Css/transform",
-    "obsidian_db/IT/Web/Css/aria",
-    "obsidian_db/IT/Web/Css/Взаимодействие пользователя с сайтом",
-    "Без названия"
+    "obsidian_db/IT/Без названия"
   ]
 }

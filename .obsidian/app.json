@@ -1,9 +1,10 @@
 {
   "defaultViewMode": "source",
-  "readableLineLength": true,
-  "showLineNumber": true,
+  "readableLineLength": false,
+  "showLineNumber": false,
   "vimMode": true,
   "attachmentFolderPath": "obsidian_db/files",
   "newFileLocation": "folder",
-  "newFileFolderPath": "obsidian_db/000_FILES"
+  "newFileFolderPath": "obsidian_db/000_FILES",
+  "alwaysUpdateLinks": true
 }

@@ -1,0 +1,1 @@
+[Шпора](https://getbootstrap.su/docs/5.0/examples/cheatsheet/)
